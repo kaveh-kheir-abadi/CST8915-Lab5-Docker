@@ -62,7 +62,7 @@ The following functionality was tested successfully:
 
 ## Demo Video
 
-**Video link:** To be added after recording.
+**Video link:** (https://youtu.be/yfTmkB5XuH0)
 
 ## Conclusion
 
