@@ -1,3 +1,6 @@
 .env
 .env.*
-!.env.example
+!.env.exampleorder-service-L4/
+product-service-python-L4/
+product-service-rust-L4/
+store-front-L4/
